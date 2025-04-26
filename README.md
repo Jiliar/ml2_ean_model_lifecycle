@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes el contenido que te pasé en formato Markdown listo para tu README.md:
-
 # 🚀 Proyecto: Detección de Anomalías en Transacciones Financieras
 
 ---

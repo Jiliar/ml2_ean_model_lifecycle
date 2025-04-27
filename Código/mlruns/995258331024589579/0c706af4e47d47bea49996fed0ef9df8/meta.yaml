@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jiliarsilgado/Documents/ml2_ean_autoencoders/Co%CC%81digo/mlruns/995258331024589579/0c706af4e47d47bea49996fed0ef9df8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '995258331024589579'
+lifecycle_stage: active
+run_id: 0c706af4e47d47bea49996fed0ef9df8
+run_name: autoencoder-initial-version
+run_uuid: 0c706af4e47d47bea49996fed0ef9df8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745696689618
+status: 1
+tags: []
+user_id: jiliarsilgado
